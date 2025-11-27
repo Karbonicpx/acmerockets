@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+
+
+@layer utilities {
+  .section-min-height{
+    min-height: calc(100vh - 68px);
+  }
+}
